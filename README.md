@@ -4,6 +4,6 @@
 ### Author:
 - Bruno Smarsaro Bazelato
 
-### Requirements:
+### Dependencies:
 1. Python3
 2. PyEDA
